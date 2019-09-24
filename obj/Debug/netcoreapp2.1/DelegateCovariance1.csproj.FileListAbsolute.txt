@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\bin\Debug\netcoreapp2.1\DelegateCovariance1.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\bin\Debug\netcoreapp2.1\DelegateCovariance1.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\bin\Debug\netcoreapp2.1\DelegateCovariance1.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\bin\Debug\netcoreapp2.1\DelegateCovariance1.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\bin\Debug\netcoreapp2.1\DelegateCovariance1.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\obj\Debug\netcoreapp2.1\DelegateCovariance1.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\obj\Debug\netcoreapp2.1\DelegateCovariance1.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\obj\Debug\netcoreapp2.1\DelegateCovariance1.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\obj\Debug\netcoreapp2.1\DelegateCovariance1.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\obj\Debug\netcoreapp2.1\DelegateCovariance1.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\DelegateCovariance1\obj\Debug\netcoreapp2.1\DelegateCovariance1.pdb
